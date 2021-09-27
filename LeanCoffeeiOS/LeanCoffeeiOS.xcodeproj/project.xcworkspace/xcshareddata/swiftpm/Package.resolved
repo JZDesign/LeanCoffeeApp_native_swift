@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "LeanCoffeeApp",
+        "repositoryURL": "https://github.com/JZDesign/LeanCoffee_native_swift_docc.git",
+        "state": {
+          "branch": "main",
+          "revision": "1c02c531e0ad2bb9dfed76e77ac8bf9108a65bc6",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
