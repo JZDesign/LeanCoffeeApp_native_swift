@@ -7,7 +7,7 @@ This is the root project where you'll learn how to create a mobile application o
 
 ## What you will need.
 
-You will need to download Xcode 13 either from the [App store](https://apps.apple.com/us/app/xcode/id497799835?mt=12) or from [Dev.Apple.com](https://download.developer.apple.com/Developer_Tools/Xcode_13/Xcode_13.xip).
+You will need to download Xcode 13 either from the [App store](https://apps.apple.com/us/app/xcode/id497799835?mt=12) or from [Dev.Apple.com](https://developer.apple.com/download/all/).
 
 
 ## Seeing the tutorial
