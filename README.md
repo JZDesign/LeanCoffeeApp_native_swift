@@ -14,7 +14,7 @@ You will need to download Xcode 13 either from the [App store](https://apps.appl
 
 You can run the project by clicking on the Xcode project file. When it opens it will fetch the Documentation Package that contains the tutorial _(If this fails, you may need to add your git credentials to Xcode from its settings, if it still fails, it's usually related to your ssh configuration. Ask me and I'll help you with it.)_
 
-Once the Swift Package finishes the download, you can press `CMD`+ `Control` + `Shift` + `D` to compile the docs and open them. You should see The Apple documentation viewer open. On the left is the navigation. You can open the tutorial there.
+Once the Swift Package finishes the download, you can press `CMD` + `Control` + `Shift` + `D` to compile the docs and open them. You should see The Apple documentation viewer open. On the left is the navigation. You can open the tutorial there.
 
 ![navigating apple docs](img/doc-nav.png)
 
