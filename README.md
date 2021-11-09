@@ -24,7 +24,14 @@ As of right now the mobile experience will not always show all of the changed li
 
 ## Following the tutorial
 
-This tutorial does assume some basic knowledge of programming. For in depth learning about Swift I would check out their [docs](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html).
+This repository holds the necessary code to start the tutorial. When you launch the docs, you can use this Xcode project to follow along.
+
+Now, this tutorial isn't for a total beginner, it does assume some basic knowledge of Swift and Xcode. Here are a couple of helpful resources:
+
+1. To learn a little about Xcode checkout this [tutorial](https://learnappmaking.com/xcode-tutorial/). You can ignore the interface builder, playgrounds, and xcode settings sections for the purposes of this tutorial.
+1. For in depth learning about Swift I would check out their [docs](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html).
+
+
 
 We will be interacting with an API that I wrote. The API docs are available [here](https://github.com/JZDesign/LeanCoffeeService) in the README. 
 
